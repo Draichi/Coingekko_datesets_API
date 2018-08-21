@@ -2,7 +2,7 @@
 
 # Cryptocurrency datasets API
 
-Multithreading wrapper to get timeseries any of 2000+ cryptocurrencys listed on [coingekko](https://api.coingecko.com/api/v3/coins/list)
+Multithreading wrapper to get normalized timeseries of any of 2000+ cryptocurrencys listed on [coingekko](https://api.coingecko.com/api/v3/coins/list)
 
 ## Data structure
 
